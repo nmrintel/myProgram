@@ -2,3 +2,4 @@
 env_tf/*
 learning/ImgData/*
 learning/Data/*
+cifar10/cifar-10/*
